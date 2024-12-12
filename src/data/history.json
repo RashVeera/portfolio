@@ -1,0 +1,19 @@
+[
+    {
+      "role": "Senior Software Engineer",
+      "organisation": "LTIMindtree",
+      "startDate": "Dec 2023",
+      "endDate": "Present",
+      "experiences": ["Added dynamic clustering features, allowing users to toggle visibility and manage map overlays in real-time",
+      "Developed reusable React components for popups, hierarchical structures, and progress bars with linear gradients using Handlebars" ]
+    },
+   
+    {
+      "role": "Software Engineer",
+      "organisation": "LTIMindtree",
+      "startDate": "Dec 2023",
+      "endDate": "Dec 2021",
+      "experiences": ["Improved tooltips, color schemes, and interactivity across various charts in SSV dashboards, addressing client-specific UI needs",
+       "Integrated Swagger for API documentation, reducing testing efforts by 50%"]
+    }
+]
